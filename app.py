@@ -74,7 +74,8 @@ def init_db():
         "Energetika",
         "Mexanika",
         "To‘qimachilik sanoati injineringi",
-        "Bolimlar"
+        "Bolimlar",
+        "-----"
     ]
     
     # Yangi ro'yxatni bazaga yozish
